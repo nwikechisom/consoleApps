@@ -1,0 +1,11 @@
+/home/oge/Documents/consoleApps/forloop/bin/Debug/netcoreapp2.1/forloop.deps.json
+/home/oge/Documents/consoleApps/forloop/bin/Debug/netcoreapp2.1/forloop.runtimeconfig.json
+/home/oge/Documents/consoleApps/forloop/bin/Debug/netcoreapp2.1/forloop.runtimeconfig.dev.json
+/home/oge/Documents/consoleApps/forloop/bin/Debug/netcoreapp2.1/forloop.dll
+/home/oge/Documents/consoleApps/forloop/bin/Debug/netcoreapp2.1/forloop.pdb
+/home/oge/Documents/consoleApps/forloop/obj/Debug/netcoreapp2.1/forloop.csprojAssemblyReference.cache
+/home/oge/Documents/consoleApps/forloop/obj/Debug/netcoreapp2.1/forloop.csproj.CoreCompileInputs.cache
+/home/oge/Documents/consoleApps/forloop/obj/Debug/netcoreapp2.1/forloop.AssemblyInfoInputs.cache
+/home/oge/Documents/consoleApps/forloop/obj/Debug/netcoreapp2.1/forloop.AssemblyInfo.cs
+/home/oge/Documents/consoleApps/forloop/obj/Debug/netcoreapp2.1/forloop.dll
+/home/oge/Documents/consoleApps/forloop/obj/Debug/netcoreapp2.1/forloop.pdb

@@ -1,0 +1,2 @@
+/home/oge/Documents/consoleApps/createFolder/obj/Debug/netcoreapp2.1/createFolder.csprojAssemblyReference.cache
+/home/oge/Documents/consoleApps/createFolder/obj/Debug/netcoreapp2.1/createFolder.csproj.GenerateResource.cache
