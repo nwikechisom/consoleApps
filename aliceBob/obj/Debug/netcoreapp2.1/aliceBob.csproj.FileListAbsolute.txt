@@ -9,3 +9,14 @@
 /home/oge/aliceBob/obj/Debug/netcoreapp2.1/aliceBob.AssemblyInfo.cs
 /home/oge/aliceBob/obj/Debug/netcoreapp2.1/aliceBob.dll
 /home/oge/aliceBob/obj/Debug/netcoreapp2.1/aliceBob.pdb
+/home/oge/Documents/consoleApps/aliceBob/bin/Debug/netcoreapp2.1/aliceBob.deps.json
+/home/oge/Documents/consoleApps/aliceBob/bin/Debug/netcoreapp2.1/aliceBob.runtimeconfig.json
+/home/oge/Documents/consoleApps/aliceBob/bin/Debug/netcoreapp2.1/aliceBob.runtimeconfig.dev.json
+/home/oge/Documents/consoleApps/aliceBob/bin/Debug/netcoreapp2.1/aliceBob.dll
+/home/oge/Documents/consoleApps/aliceBob/bin/Debug/netcoreapp2.1/aliceBob.pdb
+/home/oge/Documents/consoleApps/aliceBob/obj/Debug/netcoreapp2.1/aliceBob.csprojAssemblyReference.cache
+/home/oge/Documents/consoleApps/aliceBob/obj/Debug/netcoreapp2.1/aliceBob.csproj.CoreCompileInputs.cache
+/home/oge/Documents/consoleApps/aliceBob/obj/Debug/netcoreapp2.1/aliceBob.AssemblyInfoInputs.cache
+/home/oge/Documents/consoleApps/aliceBob/obj/Debug/netcoreapp2.1/aliceBob.AssemblyInfo.cs
+/home/oge/Documents/consoleApps/aliceBob/obj/Debug/netcoreapp2.1/aliceBob.dll
+/home/oge/Documents/consoleApps/aliceBob/obj/Debug/netcoreapp2.1/aliceBob.pdb

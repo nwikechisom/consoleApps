@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/oge/aliceBob/aliceBob.csproj",
+      "projectUniqueName": "/home/oge/Documents/consoleApps/aliceBob/aliceBob.csproj",
       "projectName": "aliceBob",
-      "projectPath": "/home/oge/aliceBob/aliceBob.csproj",
+      "projectPath": "/home/oge/Documents/consoleApps/aliceBob/aliceBob.csproj",
       "packagesPath": "/home/oge/.nuget/packages/",
-      "outputPath": "/home/oge/aliceBob/obj/",
+      "outputPath": "/home/oge/Documents/consoleApps/aliceBob/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
