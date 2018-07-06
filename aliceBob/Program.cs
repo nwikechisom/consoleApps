@@ -51,7 +51,7 @@ class Solution {
         int[] result = solve(a, b);
 
         textWriter.WriteLine(string.Join(" ", result));
-
+        
         textWriter.Flush();
         textWriter.Close();
     }
